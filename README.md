@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakansha Tembhurne</h1>
 <h3 align="center">Software Developer | Backend + AWS Enthusiast | Currently Learning DevOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakansha&label=Profile%20views&color=0e75b6&style=flat" alt="aakansha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakansha" alt="aakansha" /></a> </p>
-
-
-
 - 🔭Currently Working as a Software Developer (React & Node.js) [Karyah](https://karyah.in/)
 
 - 🌱 I’m currently learning I’m currently learning backend frameworks and DevOps tools. **Express.js and DevOps tools such as AWS and Docker.**

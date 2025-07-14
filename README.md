@@ -1,25 +1,63 @@
 <h1 align="center">Hi 👋, I'm Aakansha Tembhurne</h1>
-<h3 align="center">Software Developer | Backend + AWS Enthusiast | Currently Learning DevOps</h3>
+<h3 align="center">🚀 DevOps Engineer | Backend Developer | Cloud & Automation Enthusiast</h3>
 
-- 🔭Currently Working as a Software Developer (React & Node.js) [Karyah](https://karyah.in/)
-
-- 🌱 I’m currently learning I’m currently learning backend frameworks and DevOps tools. **Express.js and DevOps tools such as AWS and Docker.**
-
-- 📫 How to reach me **tembhurneaakansha@gmail.com**
-
-
-- ⚡ Fun fact **I tell my bugs jokes, but they never laugh**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aakansha tembhurne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakansha tembhurne" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Practitioner;CI/CD%20%7C%20Docker%20%7C%20Linux%20%7C%20GitHub%20Actions;Always%20Learning%20Terraform%2C%20Kubernetes%2C%20DevSecOps&center=true&width=800&height=45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakansha&show_icons=true&locale=en&layout=compact" alt="aakansha" /></p>
+### 👩‍💻 About Me:
+- 🔭 Currently working as a **DevOps Engineer / Software Developer** at **Tech Tech Pvt. Ltd.**
+- 🌱 Learning: **Kubernetes | Terraform | DevSecOps tools**
+- 🧠 Backend Stack: **Node.js + Express | MySQL | AWS RDS**
+- ☁️ DevOps Stack: **EC2 | S3 | GitHub Actions | PuTTY | Linux**
+- 📱 Built Web + Mobile support systems for **Karyah**, a Construction Management App
+- 📧 Reach me at: [tembhurneaakansha@gmail.com](mailto:tembhurneaakansha@gmail.com)
+- 🧩 Fun fact: I tell bugs jokes, but they still don’t debug themselves 🤷‍♀️
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakansha&show_icons=true&locale=en" alt="aakansha" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakansha&" alt="aakansha" /></p>
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AAKAN305&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAKAN305&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAKAN305&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nodejs,express,mysql,git,github,postman,html,css,js,react,py,cpp,c,postman,vscode,bash" />
+</p>
+
+---
+
+### 📚 Certifications
+- ✅ AWS Cloud Training – IT Heros Academy
+- ✅ DevOps Training – IT Heros Academy
+
+---
+
+### 🌐 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/aakanshatembhurne" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="mailto:tembhurneaakansha@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
+<a href="https://github.com/AAKAN305"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+</p>
+
+---
+
+### 🚀 Current Project Highlight – Karyah
+> Designed and deployed backend for construction management app  
+> 🚧 Used EC2, RDS, S3 for cloud infra  
+> 🔧 Built REST APIs using Node.js + MySQL  
+> 📲 Integrated with React Frontend & Android App
+
+---
+
+✨ _Thank you for visiting my profile! Let’s build the future together._ ✨

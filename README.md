@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌟 2+ Years of experience as **DevOps Engineer & Backend Developer**
+- 🌟 1+ Years of experience as **DevOps Engineer & Backend Developer**
 - 🛠️ Proficient in **AWS (EC2, S3, RDS), GitHub, Linux, Docker**
 - 🌱 Currently learning: **Kubernetes, Terraform, DevSecOps Tools**
 - 🔧 Built & deployed scalable backend using **Node.js + Express**

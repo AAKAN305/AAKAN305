@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 I'm Aakansha Tembhurne</h1>
 <h3 align="center">🚀 DevOps Engineer | Backend Developer | AWS & Cloud </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00FEEF&center=true&width=800&lines=6%6B+Month+Experience+in+DevOps+%26+Backend;AWS+%7C+EC2+%7C+S3+%7C+RDS+%7C+CI%2FCD;Node.js+%7C+Express+%7C+React+%7C+MySQL;Docker+%7C+Linux+%7C+Postman+%7C+GitHub;Learning+Kubernetes+and+Terraform" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00FEEF&center=true&width=800&lines=6%6B+Month+Experience+in+DevOps+%6+Backend;AWS+%7C+EC2+%7C+S3+%7C+RDS+%7C+CI%2FCD;Node.js+%7C+Express+%7C+React+%7C+MySQL;Docker+%7C+Linux+%7C+Postman+%7C+GitHub;Learning+Kubernetes+and+Terraform" alt="Typing animation" />
 </p>
 
 
